@@ -1,3 +1,3 @@
 # git-3.2
 
-This is sample change in local.
+This change was made in the second feature branch
